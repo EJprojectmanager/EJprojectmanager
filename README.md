@@ -1,18 +1,33 @@
-# Hello🌱, I'm Elaine Jackson
-<h3 align="center">Detailed Project Manager</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejprojectmanager" alt="ejprojectmanager" /></a> </p>
+# Hello🌱, I'm Coach Elaine Jackson!
 
-<h3 align="left">Connect with me:</h3>
+### Detailed Project Manager :
+Elaine Jackson is a highly qualified Project Manager Coach and Corporate Trainer with extensive experience in project management, PMO (Project Management Office) leadership, and holistic project management consulting. With a background in business and a range of certifications, including PMP (Project Management Professional) and CB-PMO (Certified Business Project Management Office), she has become a trusted resource in the field of project management. As an authorized RMCLS (Resource Management and Consulting Services) Training Partner, Elaine is committed to providing exceptional training and guidance to project managers seeking to excel in their careers.
+
+### Key Qualifications:
+
+- Bachelor of Science (BS) degree in a relevant field.
+- PMP (Project Management Professional) certification.
+- CB-PMO (Certified Business Project Management Office) certification.
+- Authorized RMCLS Training Partner status.
+
+![HPMC](https://github.com/EJprojectmanager/EJprojectmanager/assets/87287329/e5109adb-6c0f-4dbb-800b-7448f92468ae)
+
+<br>
+
+
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ejackson21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ejackson21" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/holisticprojectmanagementconsulting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/holisticprojectmanagementconsulting" height="30" width="40" /></a>
+<a href="https://instagram.com/holisticpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="holisticpm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@elainepmp2008/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@elainepmp2008/about" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
+<br>
 
+## Support:
 <p><a href="https://ko-fi.com/Donate to the HPMC Scholarship Fund!"> Donate to the HPMC Scholarship Fund!</a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejprojectmanager&show_icons=true&locale=en&layout=compact" alt="ejprojectmanager" /></p>
