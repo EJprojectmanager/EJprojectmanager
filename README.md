@@ -30,7 +30,9 @@ Elaine Jackson is a highly qualified Project Manager Coach and Corporate Trainer
 ## Support:
 <p><a href="https://ko-fi.com/Donate to the HPMC Scholarship Fund!"> Donate to the HPMC Scholarship Fund!</a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejprojectmanager&show_icons=true&locale=en&layout=compact" alt="ejprojectmanager" /></p>
+
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejprojectmanager&show_icons=true&locale=en" alt="ejprojectmanager" /></p>
 
