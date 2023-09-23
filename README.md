@@ -1,4 +1,6 @@
 
+![HPMC](https://github.com/EJprojectmanager/EJprojectmanager/assets/87287329/e5109adb-6c0f-4dbb-800b-7448f92468ae)
+
 # Hello🌱, I'm Coach Elaine Jackson!
 
 ### Detailed Project Manager :
@@ -11,7 +13,6 @@ Elaine Jackson is a highly qualified Project Manager Coach and Corporate Trainer
 - CB-PMO (Certified Business Project Management Office) certification.
 - Authorized RMCLS Training Partner status.
 
-![HPMC](https://github.com/EJprojectmanager/EJprojectmanager/assets/87287329/e5109adb-6c0f-4dbb-800b-7448f92468ae)
 
 <br>
 
