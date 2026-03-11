@@ -13,7 +13,7 @@ Elaine Jackson is a highly qualified Project Manager Coach and Corporate Trainer
 - CB-PMO (Certified Business Project Management Office) certification.
 - Sustainability Certification
 - Fractional Program Manager (Team open for hire)
-
+- PQ [Positive Intelligence] / AI [Artifical Intelligence]
 <br>
 
 
