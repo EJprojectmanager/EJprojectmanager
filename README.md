@@ -4,15 +4,15 @@
 # Hello🌱, I'm Coach Elaine Jackson!
 
 ### Detailed Project Manager :
-Elaine Jackson is a highly qualified Project Manager Coach and Corporate Trainer with extensive experience in project management, PMO (Project Management Office) leadership, and holistic project management consulting. With a background in business and a range of certifications, including PMP (Project Management Professional) and CB-PMO (Certified Business Project Management Office), she has become a trusted resource in the field of project management. As an authorized RMCLS (Resource Management and Consulting Services) Training Partner, Elaine is committed to providing exceptional training and guidance to project managers seeking to excel in their careers.
+Elaine Jackson is a highly qualified Project Manager Coach and Corporate Trainer with extensive experience in project management, PMO (Project Management Office) leadership, and holistic project management consulting. With a background in business and a range of certifications, including PMP (Project Management Professional) and CB-PMO (Certified Business Project Management Office), she has become a trusted resource in the field of project management. As a Training Partner, Elaine is committed to providing exceptional training and guidance to project managers seeking to excel in their careers.
 
 ### Key Qualifications:
 
 - Bachelor of Science (BS) degree in a relevant field.
 - PMP (Project Management Professional) certification.
 - CB-PMO (Certified Business Project Management Office) certification.
-- Authorized RMCLS Training Partner status.
-
+- Sustainability Certification
+- Fractional Program Manager (Team open for hire)
 
 <br>
 
